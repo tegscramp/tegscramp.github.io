@@ -109,7 +109,7 @@ nav ul,nav ol{list-style:none;list-style-image:none}
 	overflow:hidden;
 }
 #main{
-	margin:0 auto;
+	margin:0 auto 30px;
 	padding:0 15px;
 	max-width:1000px;
 }
