@@ -120,18 +120,18 @@ nav ul,nav ol{list-style:none;list-style-image:none}
 	overflow:hidden;
 }
 .list li{margin:0 0 30px;}
-.list h2{
+#main h2{
 	margin:0 0 10px;
 	color:#159957;
 	font-size:20px;
 	line-height:26px;
 }
-.list h2 a{
+#main h2 a{
 	color:#159957;
 	text-decoration:none;
 }
-.list h2 a:hover{text-decoration:underline;}
-.list p{margin:0;}
+#main h2 a:hover{text-decoration:underline;}
+#main p{margin:0;}
 #footer{
 	font-size:16px;
 	line-height:20px;
