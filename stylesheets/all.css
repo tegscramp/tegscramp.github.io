@@ -96,6 +96,10 @@ nav ul,nav ol{list-style:none;list-style-image:none}
 	font-weight:300;
 	font-family:Oswald;
 }
+#header h1 a{
+	color:#fff;
+	text-decoration: none;
+}
 #header h2{
 	margin:0;
 	color:#fff;
